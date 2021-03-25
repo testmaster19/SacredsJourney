@@ -1,7 +1,6 @@
 package SacredsJourney;
 //-------------------------------
 import java.util.Scanner;
-import java.util.concurrent.TimeUnit;
 
 
 public class PlayerCreation
@@ -16,16 +15,7 @@ public class PlayerCreation
   System.out.println("Your name is " + L_Name);
 
 
-  TimeSleep();
-  }
-
-
-  static void TimeSleep()
-  {
-    Thread.sleep(1000);
-    System.out.println("Good morning")
-    Thread.sleep(3000);
-    System.out.println("Just woke up from my nap.");
-
+  
   }
 }
+
