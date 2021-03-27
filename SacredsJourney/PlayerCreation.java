@@ -16,7 +16,6 @@ public class PlayerCreation
   System.out.println("Your name is " + L_Name);
 
 
-  TimeSleep();
   }
 
 
