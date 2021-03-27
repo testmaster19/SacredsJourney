@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 
 
-public class Storyline2
+public class Storyline1
 {
   public static String L_Name;
   public static void main(String[] args)

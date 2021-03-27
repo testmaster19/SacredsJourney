@@ -4,8 +4,7 @@ public class DeveloperCredits {
     public static void main(String[] arg)
     {
         D_NAME();
-    
-
+        
     }
     
     static void D_NAME()
