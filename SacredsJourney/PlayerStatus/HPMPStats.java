@@ -3,13 +3,25 @@ package SacredsJourney.PlayerStatus;
 public class HPMPStats {
 
 
+    final int HealthBar = 0;
+    final int MagicBar = 0;
     private int z;
-    private int MagicBar = 100;
-    public static void main(String[] args)
-    {
-        //Execute MP BAR Method here
-    }
 
+
+
+
+
+
+    public void HP_Bar()
+    [
+
+        //HP BAr here Gpes dpwm
+        if(HealthBar < 100)
+        {
+            System.out.println("You have died");
+
+        }
+    ]
 
     public void MP_Bar()
     {
