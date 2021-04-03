@@ -32,6 +32,7 @@ public class HPMPStats {
             System.out.println("You ran out of mana");
             
         }
+        
     }
     
 }

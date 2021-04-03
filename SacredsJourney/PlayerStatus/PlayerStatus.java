@@ -1,6 +1,8 @@
 package SacredsJourney.PlayerStatus;
 
-public class PlayerStatus {
+public class PlayerStatus 
+{
+    //Keep Temp
     public static void main(String[] args)
     {
         //Execute Player Stats MaxHP/MP - Display Level 
@@ -11,6 +13,12 @@ public class PlayerStatus {
     {
         System.out.println("Harv is cool");
       
+    }
+
+
+    public void Execute()
+    {
+       
     }
     
 }
