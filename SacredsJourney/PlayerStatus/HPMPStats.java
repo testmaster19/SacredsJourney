@@ -32,6 +32,11 @@ public class HPMPStats {
             System.out.println("You ran out of mana");
             //Changing
         }
+        else if(MagicBar < 100)
+    
+        {
+            ++1 MagicBar
+        }
         
     }
     

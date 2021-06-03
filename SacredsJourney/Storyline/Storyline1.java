@@ -40,41 +40,7 @@ public class Storyline1
       Thread.sleep(2000);
       Thread.sleep(2000);
       Thread.sleep(2000);
-      Thread.sleep(2000);
-      Thread.sleep(2000);
-      Thread.sleep(2000);
-      Thread.sleep(2000);
-      Thread.sleep(2000);
-      Thread.sleep(2000);
-      Thread.sleep(2000);
-      Thread.sleep(2000);
-      Thread.sleep(2000);
-      Thread.sleep(2000);
-      Thread.sleep(2000);
-      Thread.sleep(2000);
-      Thread.sleep(2000);
-      Thread.sleep(2000);
-      Thread.sleep(2000);
-      Thread.sleep(2000);
-      Thread.sleep(2000);
-      Thread.sleep(2000);
-      Thread.sleep(2000);
-      Thread.sleep(2000);
-      Thread.sleep(2000);
-      Thread.sleep(2000);
-      Thread.sleep(2000);
-      Thread.sleep(2000);
-      Thread.sleep(2000);
-      Thread.sleep(2000);
-      Thread.sleep(2000);
-      Thread.sleep(2000);
-      Thread.sleep(2000);
-      Thread.sleep(2000);
-      Thread.sleep(2000);
-      Thread.sleep(2000);
-      Thread.sleep(2000);
-      Thread.sleep(2000);
-      Thread.sleep(2000);
+
 
     }
     catch(InterruptedException e)
