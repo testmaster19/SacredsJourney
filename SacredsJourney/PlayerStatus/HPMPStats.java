@@ -13,7 +13,7 @@ public class HPMPStats {
 
 
     public void HP_Bar()
-    [
+    {
 
         //HP BAr here Gpes dpwm
         if(HealthBar < 100)
@@ -21,7 +21,7 @@ public class HPMPStats {
             System.out.println("You have died");
 
         }
-    ]
+    }
 
     public void MP_Bar()
     {
@@ -30,7 +30,7 @@ public class HPMPStats {
         if(MagicBar < 100)
         {
             System.out.println("You ran out of mana");
-            
+            //Changing
         }
         
     }
