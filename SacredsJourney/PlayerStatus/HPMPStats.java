@@ -6,6 +6,12 @@ public class HPMPStats {
     final int HealthBar = 0;
     final int MagicBar = 0;
     private int z;
+    boolean controlVar;
+
+
+    public boolean getStatus() {
+        return controlVar;
+    }
 
 
 
@@ -34,5 +40,8 @@ public class HPMPStats {
         }
         
     }
+
+
+
     
 }
