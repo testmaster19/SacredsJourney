@@ -20,5 +20,9 @@ public class PlayerStatus
     {
        
     }
+    @Override
+    public void control(int age) {
+        return age;
+    }
     
 }
